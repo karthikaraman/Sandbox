@@ -4,3 +4,8 @@ This line was created on karamanApril28 branch
 
 This is a new paragraph added on karamanApril28 branch.  Will convert this to an .md file to test other things like what happens
 when I add new paragraph for releases.
+
+This is a new paragraph added on the karamantestrelease branch.
+This should test merge conflicts due to new
+content added for release out of sync with
+daily builds.
