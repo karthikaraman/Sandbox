@@ -13,6 +13,9 @@ daily builds when I add new paragraph for releases.
 Adding a new paragraph just before release.  This is to simulate a new update going in just before release and adding to this for release.
 
 Adding a last minute change "from the PM" minutes before release.  Going to push this to origin right now.
-***
-Creating a merge conflict:
+
+---
+Adding stuff for release
+
+---
 Author: karaman (entered using the 0803 working branch as part of daily update)
