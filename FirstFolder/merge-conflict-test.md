@@ -1,4 +1,3 @@
-This is file where we can create and test merge conflicts.
-List all new features below:
-Writer2: Adding feature b
-Writer1: Adding feature a
+Test file to see the effects of working in multiple branches with git pull origin:newbranch command vs. git checkout branch syntax.
+
+This first line was created a new working branch that was created with git pull origin master:workingbranch
